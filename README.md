@@ -1,12 +1,9 @@
 # alpine
 
-Bank Management System
-
-Overview
 
 The Bank Application  is a web-based application developed using J2EE and JDBC. It allows users to perform essential banking operations such as account management, transactions, and balance inquiries.
 
-Features
+#Features
 
 User authentication (Login/Registration)
 
@@ -32,7 +29,7 @@ HTML, CSS, JavaScript,Boostrap,JSP (Frontend)
 Apache Tomcat (Web Server)
 
 
-Installation and Setup
+#Installation and Setup
 
 Prerequisites
 
@@ -87,7 +84,7 @@ Usage
 
 
 
-Contribution
+#Contribution
 
 1. Fork the repository.
 
