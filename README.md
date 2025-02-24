@@ -72,7 +72,7 @@ http://localhost:8080/BankApplication
 
 
 
-Usage
+ # Usage
 
 1. Register/Login as a user.
 
