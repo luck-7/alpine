@@ -3,7 +3,7 @@
 
 The Bank Application  is a web-based application developed using J2EE and JDBC. It allows users to perform essential banking operations such as account management, transactions, and balance inquiries.
 
-#Features
+# Features
 
 User authentication (Login/Registration)
 
@@ -16,7 +16,7 @@ Account statement generation
 Admin dashboard for account management
 
 
-Technologies Used
+# Technologies Used
 
 J2EE (Servlets, JSP)
 
@@ -29,7 +29,7 @@ HTML, CSS, JavaScript,Boostrap,JSP (Frontend)
 Apache Tomcat (Web Server)
 
 
-#Installation and Setup
+# Installation and Setup
 
 Prerequisites
 
@@ -42,7 +42,7 @@ MySQL Database
 Any IDE (Eclipse/IntelliJ IDEA/NetBeans)
 
 
-Steps to Setup
+ # Steps to Setup
 
 1. Clone the repository:
 
@@ -84,7 +84,7 @@ Usage
 
 
 
-#Contribution
+# Contribution
 
 1. Fork the repository.
 
