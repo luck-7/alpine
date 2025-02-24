@@ -46,7 +46,7 @@ Steps to Setup
 
 1. Clone the repository:
 
-git clone https://github.com/luck-7/bankapplication.git
+git clone https://github.com/luck-7/alpine.git
 
 
 2. Import the project into your IDE.
