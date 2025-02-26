@@ -66,7 +66,7 @@ Ensure you have the following installed:
 ## Contribution
 
 1. **Fork the repository.**
-2. **Create a new branch** for your feature (e.g., `feature-branch-name`).
+2. **Create a new branch** for your feature.
 3. **Commit your changes** and push them to GitHub.
 4. **Create a pull request** for review.
 
